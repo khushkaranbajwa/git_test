@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a copy of the files that you can work in tandem with the original files. For example, you have created some files that are good, but you want to add extra material to it, so rather than add to the current file if you make a new branch you can update both. So if the original contained errors, you can update that and push it to fix it, and then continue working on the extra content.
