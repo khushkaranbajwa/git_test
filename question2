@@ -1,2 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
-=========================================================================
+In a forked repository that has been cloned to your local machine so that you now have a local repository, in order to pull (git pull) from the original repository any changes the maintainer makes, your need an upstream remote. It is important to note that whilst you have push AND pull access to origin (your own repository), you only have pull access to upstream (the original repository).
