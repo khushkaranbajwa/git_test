@@ -1,2 +1,1 @@
-Explain what git clone does, in your own words
-==============================================
+Git clone (git clone [url]) is a tool used to clone a remote repository, it creates a local repository on your computer; creates a new directory (mkdir [pathname]), changes into it, automatically initialises it (git init), adds an origin remote (git remote add origin [url]), and then jumps back to parent directory (cd ..).
